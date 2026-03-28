@@ -3,6 +3,8 @@
 - Analyze retail business performance across transactions, products, customers, and stores
 - Build an interactive Power BI dashboard to monitor key metrics and support data-driven decision-making
 - Identify trends, patterns, and opportunities to improve sales performance and operational efficiency
+## Data Source
+The dataset used in this project was obtained from [Xóm Data Playground](https://www.xomdata.com/d%E1%BB%B1-%C3%A1n-theo-l%C4%A9nh-v%E1%BB%B1c/b%C3%A1n-l%E1%BA%BB).
 ## Key Questions / KPIs
 - What is the total revenue, total orders, and average order value (AOV)?
 - How do sales perform over time (monthly/seasonal trends)?
