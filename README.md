@@ -17,3 +17,8 @@ The dataset used in this project was obtained from [Xóm Data Playground](https:
 - Data Modeling: A star schema was designed with a central fact table (fact_sales) and supporting dimension tables, including dim_customers, dim_products, and dim_stores. Relationships between tables were established.
 - Data Analysis: A date dimension table (dim_dates) was created, and key metrics were developed using DAX, including AOV, COGS, Profit, and Sales, along with Total Customers, Total Orders, and Total Stores. RFM Segmentation was also implemented.
 - Data Visualization: An interactive dashboard was built in Microsoft Power BI with filters and slicers. KPIs, trends, and performance metrics were visualized.
+## Dashboard
+<img width="618" height="345" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/00d55160-0543-4074-9890-e54fd8ba0211" />
+<img width="616" height="347" alt="Dashboard_Product" src="https://github.com/user-attachments/assets/a35cdd75-4043-4c24-8500-9d18e941feef" />
+<img width="615" height="346" alt="Dashboard_Customers" src="https://github.com/user-attachments/assets/8dfe53b1-0370-4cfa-b95f-da28e2f07b21" />
+<img width="615" height="345" alt="Dashboard_Stores" src="https://github.com/user-attachments/assets/0f71d8f6-ec1c-4fa5-bf10-150cec34d71c" />
